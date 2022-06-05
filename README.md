@@ -12,11 +12,11 @@ Below are the list of the criteria users can search for
 ## Reuslts:
   Users can search UFO sitings by dates,city, state, country and shape.
    - UFO sightings webpage
-   ![UFO sigtings Webpage](ttps://github.com/Hanitapatel/UFOs/blob/main/static/images/UFO%20sightings%20Webpage.png)
+   ![UFO sigtings Webpage](https://github.com/Hanitapatel/UFOs/blob/main/static/images/UFO%20sightings%20Webpage.png)
    
    - Search reasults filtering by State as nc and country as us. There are four incidence in 2010 in four different cities in Nc and all in January 2010
-   -pic of results
-  
+   ![Search results](https://github.com/Hanitapatel/UFOs/blob/main/static/images/Search%20results.png)
+   
   
 ## Summary
  Drawback
